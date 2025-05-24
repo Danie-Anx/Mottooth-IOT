@@ -1,0 +1,10 @@
+pandas
+numpy
+scikit-learn>=1.0
+imbalanced-learn       # para SMOTE
+jupyterlab             # se usar Jupyter
+matplotlib             # para gráficos
+
+# Instala tudo de uma vez
+pip install -r requirements.txt
+
